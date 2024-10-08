@@ -39,7 +39,7 @@ class _MainAppState extends State {
             const SizedBox(
               height: 50,
               width: 350,
-              child: const Text(
+              child: Text(
                 "Nike Air Force 1'07",
                 style: TextStyle(fontSize: 25, fontWeight: FontWeight.w700),
               ),
@@ -92,7 +92,7 @@ class _MainAppState extends State {
             ),
             const SizedBox(
               width: 350,
-              child: const Text(
+              child: Text(
                   "hello guys my name is sahil medhane this dummy app made by . hello guys my name is sahil medhane this dummy app made by mehello guys my name is sahil medhane this dummy app made by mehello guys my name is sahil medhane this dummy app made by me. hello guys my name is sahil medhane this dummy app made by me"),
             ),
             const SizedBox(
